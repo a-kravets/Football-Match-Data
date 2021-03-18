@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run statsbomb_filters_streamlit.py
